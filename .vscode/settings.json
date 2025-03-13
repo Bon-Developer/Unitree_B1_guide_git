@@ -1,0 +1,9 @@
+{
+    "ros.distro": "noetic",
+    "files.associations": {
+        "*.tcc": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "typeinfo": "cpp"
+    }
+}
